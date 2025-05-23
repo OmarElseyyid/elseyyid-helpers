@@ -48,5 +48,5 @@ Pull requests are welcome. Fork the repository, push your feature branch, and su
 MIT License — see the LICENSE file.
 
 ## Maintainer
-- Omar El Seyyid – omarelseyyid@gmail.com
+- Omar El Seyyid – mhmoud.omar3@gmail.com
 - GitHub Profile: [https://github.com/OmarElseyyid](https://github.com/OmarElseyyid)
